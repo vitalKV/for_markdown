@@ -4,9 +4,6 @@ just image
 
 ![cooll picture](https://static.vecteezy.com/system/resources/thumbnails/045/093/114/small_2x/soft-pink-clouds-cutout-flat-illustration-vector.jpg)
 
-image with link
-
-[![cooll picture](https://static.vecteezy.com/system/resources/thumbnails/045/093/114/small_2x/soft-pink-clouds-cutout-flat-illustration-vector.jpg)](https://avatars.mds.yandex.net/i?id=b0911d577fe2c055cbf25b9c463c2f6e18b0d5f8-7546005-images-thumbs&n=13)
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,16 +26,25 @@ image with link
    </ol>
 </details>
 
-# Main
+# Main 😄🚀
 *Напишите*, какой способ вы хотите — через веб-___интерфейс__ или терминал — и я дам точные команды/пошаговые скриншоты под ваш сценарий (например, работа в Windows PowerShell, macOS Terminal или Git Bash).
 ***
 
-## Main
+## Main 😙
 * up
 * up
 * up
 ---
 
+<!-- some text... -->
+[comment]: # (many comments)
+
+## Table 🤣
+№    |  name  |
+|:--|:---:|
+| 1   |   jonn   |
+|2    |   lir   |
+|  3  |     mice |
 <p align="right">
 <a href="#readme-top">back to top</a>
 <p>
@@ -54,6 +60,12 @@ console.log(greet("Kvwork"))
 ./script.sh
    ```
 ***
+## Roadmap
+- [x] add text
+- [ ] add word
+- [ ] support
+  - [ ] call
+  - [ ] message  
 
 ## Author links
 * <https://github.com/vitalKV/for_markdown/edit/master/README.md>
